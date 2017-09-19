@@ -5,9 +5,9 @@ This is my own practice file.
 ### GCD  
 * Input an integer t,and t group of two number,then output the GCD for each group.  
 ### Transport
-   + Input m,n for a matrix size, and input each element, then output a transport matrix.  
-   + using Dynamical Memory Allocation.  
+* Input m,n for a matrix size, and input each element, then output a transport matrix.  
+* using Dynamical Memory Allocation.  
 ### Triangle  
-   + Input l,d,s for level,width,shift, then output a tree.  
+* Input l,d,s for level,width,shift, then output a tree.  
 ### PrintImages  
-   + There is a .sh file (run on Mac) will print six picture(.raw) on one paper(.ps).
+* There is a .sh file (run on Mac) will print six picture(.raw) on one paper(.ps).
